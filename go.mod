@@ -2,7 +2,7 @@ module github.com/jenkins-x-plugins/jx-stash
 
 require (
 	github.com/fatih/color v1.10.0 // indirect
-	github.com/jenkins-x/jx-helpers/v3 v3.0.60
+	github.com/jenkins-x/jx-helpers/v3 v3.0.61
 	github.com/jenkins-x/jx-logging/v3 v3.0.3
 	github.com/kr/pretty v0.2.1 // indirect
 	github.com/spf13/cobra v1.1.1
